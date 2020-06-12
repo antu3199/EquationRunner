@@ -1,0 +1,7 @@
+HighScore 0
+Cashmoney 500
+MaxHealth 3
+HeartCost 500
+InvincibilityTime 50
+HeartCost2 500
+Speed 10
